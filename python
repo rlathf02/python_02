@@ -237,6 +237,10 @@ print(kim.folder)
 
 print('hi')
 
+# git clone
+# git pull origin main 
+####이미 작업이 어느정도 되어있는 상태에서 소스코드 최신화
+
 
 
 
