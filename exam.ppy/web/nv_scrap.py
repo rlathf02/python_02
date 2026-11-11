@@ -23,4 +23,4 @@ print('== class로 선택, 반복문으로 텍스트 출력')
 for c in content:
     print(c.text)
     
-#네이버뉴스 스크래핑 커밋 
+
