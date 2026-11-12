@@ -60,3 +60,5 @@ while current_page <= MAX_PAGES:
 print('최종 수집 개수 :', len(results))
 
 driver.quit()
+
+

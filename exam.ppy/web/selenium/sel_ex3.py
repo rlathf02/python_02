@@ -46,3 +46,5 @@ print('현재까지 수집된 개수 :', len(results))
 
 # 브라우저 종료
 driver.quit()
+
+
